@@ -19,5 +19,15 @@ namespace dependAnt.Website.Controllers
 
             return View();
         }
+
+        /// <summary>
+        /// Returns the default view for displaying the API Inventory Search Page.
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public ActionResult ApiInventorySearch()
+        {
+            return View();
+        }
     }
 }
