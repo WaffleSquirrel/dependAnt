@@ -14,7 +14,7 @@
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)Auth\AuthTokenProvider.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Auth\IAuthTokenProvider.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)ComponentModel\Annotations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Aspects\Annotations.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\DebugLogger.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\DebugLoggerFactory.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\ILog.cs" />

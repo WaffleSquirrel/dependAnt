@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel;
-using dependAnt.Core.ComponentModel;
+using dependAnt.Core.Aspects;
 
 namespace dependAnt.Core.UI
 {

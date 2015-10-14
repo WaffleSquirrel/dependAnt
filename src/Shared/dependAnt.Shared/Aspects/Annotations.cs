@@ -2,7 +2,7 @@
 
 #pragma warning disable 1591
 
-namespace dependAnt.Core.ComponentModel
+namespace dependAnt.Core.Aspects
 {
   /// <summary>
   /// Indicates that the value of the marked element could be <c>null</c> sometimes,
