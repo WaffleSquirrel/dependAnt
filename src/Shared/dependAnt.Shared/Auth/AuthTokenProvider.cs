@@ -1,4 +1,4 @@
-﻿namespace dependAnt.Core
+﻿namespace dependAnt.Core.Auth
 {
     public class AuthTokenProvider
     {

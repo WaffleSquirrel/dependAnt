@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>1e607bbb-a16e-4bf7-8fbb-59281d16c621</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>dependAnt.Core</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Auth\AuthTokenProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Auth\IAuthTokenProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ServiceConstants.cs" />
+  </ItemGroup>
+</Project>
