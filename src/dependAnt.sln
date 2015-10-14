@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{2894DC65-7BB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{E22D7485-470B-4504-ACEF-53A98F97F70A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dependAnt.Shared", "Shared\dependAnt.Shared.csproj", "{B954B5A9-ABD0-469B-9397-039675BEC8F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dependAnt.Core.Pcl", "Shared\dependAnt.Core.Pcl.csproj", "{B954B5A9-ABD0-469B-9397-039675BEC8F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

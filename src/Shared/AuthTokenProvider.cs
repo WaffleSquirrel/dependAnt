@@ -1,4 +1,4 @@
-﻿namespace dependAnt.Shared
+﻿namespace dependAnt.Core
 {
     public class AuthTokenProvider
     {

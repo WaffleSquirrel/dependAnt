@@ -8,8 +8,8 @@
     <ProjectGuid>{B954B5A9-ABD0-469B-9397-039675BEC8F0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>dependAnt.Shared</RootNamespace>
-    <AssemblyName>dependAnt.Shared</AssemblyName>
+    <RootNamespace>dependAnt.Core</RootNamespace>
+    <AssemblyName>dependAnt.Core</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <TargetFrameworkProfile>Profile151</TargetFrameworkProfile>
     <DefaultLanguage>en-US</DefaultLanguage>
