@@ -15,6 +15,17 @@
     <Compile Include="$(MSBuildThisFileDirectory)Auth\AuthTokenProvider.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Auth\IAuthTokenProvider.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Aspects\Annotations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\Monitoring\ServiceHealthDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\Monitoring\HistoricServiceHealthDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\Monitoring\ServiceHealthUpdatesDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\Control\ServiceLevelStateDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\Control\FeedThroughputDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\Execution\DirectionDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\Execution\ServiceLevelDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\Execution\ServiceLevelRequestDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\Execution\ServiceLevelStatusDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\UnitDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTO\UpdateTypeDto.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\DebugLogger.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\DebugLoggerFactory.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\ILog.cs" />
@@ -24,5 +35,9 @@
     <Compile Include="$(MSBuildThisFileDirectory)UI\IViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)UI\NotifyingBase.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)UI\ViewModelBase.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)DTO\ServiceCatalog\" />
+    <Folder Include="$(MSBuildThisFileDirectory)DTO\ServiceLevel\" />
   </ItemGroup>
 </Project>
