@@ -16,7 +16,7 @@ namespace dependAnt.Core.DTO.Monitoring
 
         public override string ToString()
         {
-            return string.Format("CurrentPositions: {0}, History: {1}", string.Join(", ", CurrentHealth), string.Join(", ", History));
+            return string.Format("Current Health Updates: {0}, History: {1}", string.Join(", ", CurrentHealth), string.Join(", ", History));
         }
     }
 }

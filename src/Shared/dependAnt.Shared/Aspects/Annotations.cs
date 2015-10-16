@@ -1,6 +1,6 @@
 ﻿using System;
 
-#pragma warning disable 1591
+//#pragma warning disable 1591
 
 namespace dependAnt.Core.Aspects
 {
