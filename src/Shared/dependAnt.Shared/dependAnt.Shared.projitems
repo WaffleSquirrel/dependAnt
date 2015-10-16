@@ -23,10 +23,16 @@
     <Compile Include="$(MSBuildThisFileDirectory)DTO\Execution\ServiceLevelStatusDto.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DTO\UnitDto.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)DTO\UpdateTypeDto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\ArrayExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\DateTimeExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\DebugLogger.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\DebugLoggerFactory.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\ILog.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Logging\ILoggerFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Monitoring\Heartbeat.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Monitoring\IHeartbeat.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Monitoring\IStale.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Monitoring\Stale.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ServiceConstants.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)UI\DelegateCommand.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)UI\IViewModel.cs" />
