@@ -153,6 +153,7 @@
     <TypeScriptCompile Include="Scripts\typings\rx\rx.time.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\rx\rx.virtualtime.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\signalr\signalr.d.ts" />
+    <TypeScriptCompile Include="app.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
