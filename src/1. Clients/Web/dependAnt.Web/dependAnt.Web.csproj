@@ -149,6 +149,7 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="Client\Extensions\DateUtils.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery.color\jquery.color.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\knockout\knockout.d.ts" />
