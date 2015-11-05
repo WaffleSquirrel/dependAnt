@@ -150,6 +150,8 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="Client\Extensions\DateUtils.ts" />
+    <TypeScriptCompile Include="Client\Extensions\IStale.ts" />
+    <TypeScriptCompile Include="Client\Extensions\Stale.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery.color\jquery.color.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\knockout\knockout.d.ts" />
