@@ -154,6 +154,8 @@
     <TypeScriptCompile Include="Client\Extensions\NumberFormatter.ts" />
     <TypeScriptCompile Include="Client\Extensions\ObservableExtensions.ts" />
     <TypeScriptCompile Include="Client\Extensions\Stale.ts" />
+    <TypeScriptCompile Include="Client\Session\ISessionExpirationService.ts" />
+    <TypeScriptCompile Include="Client\Session\SessionExpirationService.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery.color\jquery.color.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\knockout\knockout.d.ts" />
