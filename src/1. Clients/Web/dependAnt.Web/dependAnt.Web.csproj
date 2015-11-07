@@ -172,9 +172,11 @@
     <TypeScriptCompile Include="AntFarm\IAmAnAntFarm.ts" />
     <TypeScriptCompile Include="Client\Transport\Connection.ts" />
     <TypeScriptCompile Include="Client\Transport\ConnectionInfo.ts" />
+    <TypeScriptCompile Include="Client\Transport\ConnectionProvider.ts" />
     <TypeScriptCompile Include="Client\Transport\ConnectionStatus.ts" />
     <TypeScriptCompile Include="Client\Transport\ConnectionType.ts" />
     <TypeScriptCompile Include="Client\Transport\IConnection.ts" />
+    <TypeScriptCompile Include="Client\Transport\IConnectionProvider.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery.color\jquery.color.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\knockout\knockout.d.ts" />
