@@ -160,6 +160,7 @@
     <TypeScriptCompile Include="Client\Session\SessionExpirationService.ts" />
     <TypeScriptCompile Include="AntFarm\AntFarm.ts" />
     <TypeScriptCompile Include="AntFarm\IAmAnAntFarm.ts" />
+    <TypeScriptCompile Include="Client\Transport\ConnectionInfo.ts" />
     <TypeScriptCompile Include="Client\Transport\ConnectionStatus.ts" />
     <TypeScriptCompile Include="Client\Transport\ConnectionType.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery.color\jquery.color.d.ts" />
