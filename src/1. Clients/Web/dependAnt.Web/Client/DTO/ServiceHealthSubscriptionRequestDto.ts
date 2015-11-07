@@ -1,0 +1,3 @@
+﻿class ServiceHealthSubscriptionRequestDto {
+    ServiceCatalogId: string;
+}

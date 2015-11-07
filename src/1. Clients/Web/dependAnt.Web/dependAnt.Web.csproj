@@ -151,6 +151,16 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="Client\DTO\ServiceCatalogDto.ts" />
+    <TypeScriptCompile Include="Client\DTO\ServiceCatalogItemDto.ts" />
+    <TypeScriptCompile Include="Client\DTO\ServiceHealthDirectionDto.ts" />
+    <TypeScriptCompile Include="Client\DTO\ServiceHealthDto.ts" />
+    <TypeScriptCompile Include="Client\DTO\ServiceHealthSubscriptionRequestDto.ts" />
+    <TypeScriptCompile Include="Client\DTO\ServiceHealthUpdateDto.ts" />
+    <TypeScriptCompile Include="Client\DTO\ServiceHealthUpdateTypeDto.ts" />
+    <TypeScriptCompile Include="Client\DTO\ServiceLevelDto.ts" />
+    <TypeScriptCompile Include="Client\DTO\ServiceRegistryDto.ts" />
+    <TypeScriptCompile Include="Client\DTO\ServiceStatusDto.ts" />
     <TypeScriptCompile Include="Client\Extensions\DateUtils.ts" />
     <TypeScriptCompile Include="Client\Extensions\IStale.ts" />
     <TypeScriptCompile Include="Client\Extensions\NumberFormatter.ts" />

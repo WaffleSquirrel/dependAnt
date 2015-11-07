@@ -1,0 +1,3 @@
+﻿class ServiceStatusDto {
+    ServiceLevel: ServiceLevelDto;
+}
