@@ -108,6 +108,8 @@
   <ItemGroup>
     <Content Include="default.aspx" />
     <Content Include="fav-icon.ico" />
+    <Content Include="Images\dependAnt-icon.png" />
+    <Content Include="Images\dependAnt.png" />
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
@@ -184,9 +186,7 @@
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Images\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
