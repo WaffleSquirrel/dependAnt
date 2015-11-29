@@ -11,7 +11,6 @@
 
     <!-- Stylish things -->
     <link rel="icon" type="image/ico" href="fav-icon.ico" />
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Source+Code+Pro" />
     <link rel="stylesheet" href="Styles/normalize.css" type="text/css" />
     <link rel="stylesheet" href="Styles/app.css" type="text/css" />
 
