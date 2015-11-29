@@ -10,6 +10,6 @@
 namespace dependAnt.Web {
     
     
-    public partial class _default {
+    public partial class AboutPage {
     }
 }
