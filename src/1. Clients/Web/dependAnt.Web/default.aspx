@@ -42,7 +42,7 @@
           <!-- Top/Right Buttons -->
           <ul class="global-nav-list">
             <li class="global-nav-item">
-              <a href="/">Contribute</a>
+              <a href="about.aspx">About</a>
             </li>
             <li class="global-nav-item">
               <a class="cta-link-nav" href="/">Docs</a>
