@@ -15,16 +15,6 @@
     <link rel="stylesheet" href="Styles/normalize.css" type="text/css" />
     <link rel="stylesheet" href="Styles/app.css" type="text/css" />
 
-    <!-- Scripty things -->
-    <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="//ajax.aspnetcdn.com/ajax/signalr/jquery.signalr-2.2.0.min.js"></script>
-    <script src="//code.jquery.com/color/jquery.color-2.1.2.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/rxjs/4.0.0/rx.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/rxjs/4.0.0/rx.binding.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/rxjs/4.0.0/rx.time.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
-    <script src="generated.js"></script>
-
 </head>
 <body>
     <header class="hero" role="banner">
