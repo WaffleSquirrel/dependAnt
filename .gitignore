@@ -194,3 +194,5 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+src/1. Clients/Web/dependAnt.Web/generated.js
+src/1. Clients/Web/dependAnt.Web/generated.js.map
